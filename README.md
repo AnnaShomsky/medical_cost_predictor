@@ -7,3 +7,9 @@ analysis of medical costs and an interactive interface for predicting your own c
 
 
 <img width="999" alt="Screen Shot 2022-05-13 at 2 59 00 PM" src="https://user-images.githubusercontent.com/98672738/168394835-3d50db62-a0b9-41f3-ad9c-43a68465e837.png">
+
+
+<img width="630" alt="Screen Shot 2022-05-13 at 3 01 25 PM" src="https://user-images.githubusercontent.com/98672738/168394984-8b6ecd83-de39-4448-aed0-841e4518c0c7.png">
+
+
+<img width="638" alt="Screen Shot 2022-05-13 at 3 01 45 PM" src="https://user-images.githubusercontent.com/98672738/168395014-7cbbedd5-4c95-4cb5-a882-c5466f10d31d.png">
